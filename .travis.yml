@@ -6,7 +6,7 @@ after_script:
 before_install:
 - openssl aes-256-cbc -K $encrypted_204d80cb93e1_key -iv $encrypted_204d80cb93e1_iv
   -in .travis/id_rsa.enc -out id_rsa -d
- 
+ mv id_rsa -f
 # 配置 ssh
 - eval $(ssh-agent)
 - ssh-add ~/.ssh/id_rsa
