@@ -1,0 +1,19 @@
+{
+  "name": "travipro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leconomy/travipro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leconomy/travipro/issues"
+  },
+  "homepage": "https://github.com/Leconomy/travipro#readme"
+}

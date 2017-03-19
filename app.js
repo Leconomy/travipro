@@ -1,1 +1,1 @@
-echo 'travis cli';
+console.log(2)
