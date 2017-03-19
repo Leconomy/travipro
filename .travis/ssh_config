@@ -1,5 +1,5 @@
 Host github.com
     User Leconomy
-    StrictHostKeyChecking no
+    StrictHostKeyChecking yes
     IdentityFile ~/.ssh/id_rsa
     IdentitiesOnly yes
