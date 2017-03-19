@@ -1,5 +1,5 @@
-Host github.com
-    User Leconomy
+Host 123.57.251.151
+    User root
     StrictHostKeyChecking yes
     IdentityFile ~/.ssh/id_rsa
     IdentitiesOnly yes

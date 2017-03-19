@@ -11,6 +11,3 @@ before_install:
 - eval $(ssh-agent)
 - ssh-add ~/.ssh/id_rsa
 - cp .travis/ssh_config ~/.ssh/config
-# 配置 git 替换为自己的信息
-- git config --global user.name 'Leconomy'
-- git config --global user.email liujingjibhbh@qq.com
